@@ -1,7 +1,7 @@
 
 FROM maven:3.8.6-openjdk-21 AS build
 WORKDIR /app
-COPY . .
+COPY src/main/java .
 RUN mvn clean package -DskipTests
 
 # Run stage
