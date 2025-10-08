@@ -4,7 +4,8 @@ A high-performance Spring Boot caching proxy that sits between clients and exter
 
 🚀 Live Demo
 
-Project url: https://cache-proxy-5.onrender.com/
+**Production URL:** https://cache-proxy-5.onrender.com/
+
 
 API Endpoint: https://cache-proxy-5.onrender.com/proxy/posts
 
